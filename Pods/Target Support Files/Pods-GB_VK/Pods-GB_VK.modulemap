@@ -1,0 +1,6 @@
+framework module Pods_GB_VK {
+  umbrella header "Pods-GB_VK-umbrella.h"
+
+  export *
+  module * { export * }
+}

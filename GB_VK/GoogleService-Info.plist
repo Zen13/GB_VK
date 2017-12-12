@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>57193472360-goppqvm7i9lgd4rgk0ak8vd95dc3ensk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.57193472360-goppqvm7i9lgd4rgk0ak8vd95dc3ensk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDI5CWJtudaltSDpR8kEy3b9PnMuKMxhV4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>57193472360</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Zen.GB-VK</string>
+	<key>PROJECT_ID</key>
+	<string>gb-vk-9ac38</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gb-vk-9ac38.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:57193472360:ios:30d9db2cf28c7fad</string>
+	<key>DATABASE_URL</key>
+	<string>https://gb-vk-9ac38.firebaseio.com</string>
+</dict>
+</plist>
